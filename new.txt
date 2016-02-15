@@ -1,2 +1,2 @@
-new string new string 第一次编辑该文件 第二次编辑该文件
-在newbranch分支上修改该文件，然后合并到主干上
+new qtring new strinq 第一次编辑该文q 第二次编辑该文
+change edit add some characters

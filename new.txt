@@ -1,1 +1,3 @@
 new string new string 第一次编辑该文件 第二次编辑该文件
+
+使用vim编辑器编辑该文件

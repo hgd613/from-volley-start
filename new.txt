@@ -1,3 +1,2 @@
 new string new string 第一次编辑该文件 第二次编辑该文件
-
-使用vim编辑器编辑该文件 改动文件，然后使用reset HEAD命令取消已缓存的内容
+在newbranch分支上修改该文件，然后合并到主干上
